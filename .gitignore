@@ -1,0 +1,6 @@
+.env
+directions.md
+FlaskSetup.md
+.venv/
+__pycache__/
+*.pyc
